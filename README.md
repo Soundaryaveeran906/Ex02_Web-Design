@@ -45,7 +45,8 @@
 </html>
 ~~~
 
-## OUTPUT
+## OUTPUT:
+
 ![EX NO 2 WEB](https://user-images.githubusercontent.com/127818071/229301106-1c81f86c-efba-4652-a7e8-9c647a6e31f9.png)
 
 
