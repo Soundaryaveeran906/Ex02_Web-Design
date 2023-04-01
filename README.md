@@ -19,7 +19,8 @@
   Open the file in a browser and verify the output.
   
 ## CODE
-```<html>
+```
+<html>
 
 <tittle>sample web page</tittle> <head> <h1 align="center">Saveetha Engineering College</h1>
 
@@ -55,7 +56,7 @@ cul style-list-style-type:disc> <li>Artificial Intelligence-Machine Learning</11
 
 </body>
 </html>
-
+~~~
 
 ## OUTPUT
 ![EX NO 2 WEB](https://user-images.githubusercontent.com/127818071/229262578-31e81ade-c64a-4238-9ab7-f5123fc9b6f5.png)
