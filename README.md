@@ -21,29 +21,34 @@
 ## CODE
 ```
 <html>
-<tittle>sample web page</tittle> <head> <h1 align="center">Saveetha Engineering College</h1>
+<head>
+<tittle>sample web page</tittle>
 </head>
-<body bgcolor-cyan>
-<p style="text-align:center"></p>
-<hr text-decoration-line:underline;
-text-decortion-thickness:3px>
-col style-list-style-type:upper-alpha>
-<li>Agricultural Engineering</li> <li>Computer Science & Engineering</li>
+<body bgcolor="cyan" text-"black">
+<h1 align="center">Saveetha Engineering College</h1>
+<hr size="9" color="red">
+<ol type="A">
+<li>Agricultural Engineering</li>
+<li>Computer Science & Engineering</li>
 <li>Information Technology </li> <li>Data Science</li>
-<ul> style-list-style-type:disc> <li>Artificial Intelligence-Machine Learning</li>
+<li>Data Science</li>
+<ul type-"disc">
+<li>Artificial Intelligence-Machine Learning</li>
 <li>Artificial Intelligence-Data Science</li>
 <li>Internet of Things</li>
 </ul>
 <li>Electronics & Communication Engineering</li>
 <li>Electrical & Electronics Engineering</li>
 <li>Mechanical Engineering</li>
+</ol>
 </body>
 </html>
 ~~~
 
 ## OUTPUT
-![EX NO 2 WEB](https://user-images.githubusercontent.com/127818071/229262813-f53b7a2f-7121-4271-bca4-ef7d81e5b431.png)
+
+![EX NO 2 WEB](https://user-images.githubusercontent.com/127818071/229298195-9d4c37e1-8265-4940-9df1-d0f8031309ca.png)
 
 
 ## RESULT
-  List of Departments in an Institution is created successfully.
+  List of departments in an Institution is created successfully.
