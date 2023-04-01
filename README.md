@@ -21,39 +21,22 @@
 ## CODE
 ```
 <html>
-
 <tittle>sample web page</tittle> <head> <h1 align="center">Saveetha Engineering College</h1>
-
 </head>
-
 <body bgcolor-cyan>
-
 <p style="text-align:center"></p>
-
 <hr text-decoration-line:underline;
-
 text-decortion-thickness:3px>
-
 col style-list-style-type:upper-alpha>
-
 <li>Agricultural Engineering</li> <li>Computer Science & Engineering</li>
-
 <li>Information Technology </li> <li>Data Science</li>
-
-cul style-list-style-type:disc> <li>Artificial Intelligence-Machine Learning</11
-
+<ul> style-list-style-type:disc> <li>Artificial Intelligence-Machine Learning</li>
 <li>Artificial Intelligence-Data Science</li>
-
 <li>Internet of Things</li>
-
 </ul>
-
 <li>Electronics & Communication Engineering</li>
-
 <li>Electrical & Electronics Engineering</li>
-
 <li>Mechanical Engineering</li>
-
 </body>
 </html>
 ~~~
