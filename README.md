@@ -46,8 +46,9 @@
 ~~~
 
 ## OUTPUT
+![EX NO 2 WEB](https://user-images.githubusercontent.com/127818071/229301106-1c81f86c-efba-4652-a7e8-9c647a6e31f9.png)
 
-![S2](https://user-images.githubusercontent.com/127818071/229300816-496d44e9-bec1-4611-9ea6-5c883eb8b0d2.png)
+
 
 ## RESULT
   List of departments in an Institution is created successfully.
