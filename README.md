@@ -59,7 +59,8 @@ cul style-list-style-type:disc> <li>Artificial Intelligence-Machine Learning</11
 ~~~
 
 ## OUTPUT
-![EX NO 2 WEB](https://user-images.githubusercontent.com/127818071/229262578-31e81ade-c64a-4238-9ab7-f5123fc9b6f5.png)
+![EX NO 2 WEB](https://user-images.githubusercontent.com/127818071/229262744-5df5ec8d-4b40-4aea-bad8-3a080e40da00.png)
+
 
 
 ## RESULT
