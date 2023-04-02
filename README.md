@@ -49,7 +49,7 @@
 ## OUTPUT:
 
 
- ![](/file:///home/sec/Ex02_Web-Design/exp2.jpeg)
+ ![](./file:///home/sec/Ex02_Web-Design/exp2.jpeg)
 
 
 ## RESULT:
