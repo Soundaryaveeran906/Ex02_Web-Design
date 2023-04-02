@@ -47,9 +47,9 @@
 ```
 
 ## OUTPUT:
+![EX NO 2 WEB](https://user-images.githubusercontent.com/127818071/229332975-fb5a09f4-fc7d-4115-9540-3395301ffef1.png)
 
 
- ![](./file:///home/sec/Ex02_Web-Design/exp2.jpeg)
 
 
 ## RESULT:
